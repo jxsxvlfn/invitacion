@@ -107,7 +107,7 @@ function sendWhatsAppMessage(event) {
     if (!guest) return;
     
     const message = `Hola, Soy ${name}, confirmo mi asistencia con ${guest.guests} persona(s).`;
-    const phoneNumber = '+5493815446784'; // Cambia este número al número de teléfono de destino
+    const phoneNumber = '+5493812129334'; // Cambia este número al número de teléfono de destino
     
     const url = `https://wa.me/${phoneNumber}?text=${encodeURIComponent(message)}`;
     window.open(url, '_blank');
