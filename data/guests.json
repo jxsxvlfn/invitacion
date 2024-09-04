@@ -22,22 +22,7 @@
     { "name": "Gustavo Ledesma", "guests": 6 },
     { "name": "Ivan Toro", "guests": 5 },
     { "name": "Eduardo Jalil", "guests": 5 },
-    { "name": "Roxana Jalil", "guests": 2 },
-    { "name": "Martin Valdiviezo", "guests": 5 },
-    { "name": "Belen Franco", "guests": 3 },
-    { "name": "Hector Altamiranda", "guests": 4 },
-    { "name": "Florencia Bizzotto", "guests": 3 },
-    { "name": "Sofia Albornoz", "guests": 3 },
-    { "name": "Rosa Segura", "guests": 3 },
-    { "name": "Rosita Perez", "guests": 3 },
-    { "name": "Emilia Sanchez", "guests": 1 },
-    { "name": "Emilia Franco", "guests": 3 },
-    { "name": "Rodolfo Franco", "guests": 6 },
-    { "name": "Ivana Franco", "guests": 4 },
-    { "name": "Dardo Diaz", "guests": 4 },
-    { "name": "Natalia Diaz", "guests": 4 },
-    { "name": "Gabriel Diaz", "guests": 3 },
-    { "name": "Antonio Franco", "guests": 2 },
-    { "name": "Alexis Coronel", "guests": 2 }
+    { "name": "Roxana Jalil", "guests": 2 }
+
     
 ]
